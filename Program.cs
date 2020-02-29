@@ -6,7 +6,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            int x = EX4.Run(999 * 999);
+            int x = EX5.Run();
             Console.WriteLine($"Largest palindrome made from the product of 3-digit numnbers is {x}");
         }
     }
