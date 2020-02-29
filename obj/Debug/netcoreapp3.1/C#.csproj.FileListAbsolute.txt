@@ -1,0 +1,10 @@
+/Users/jaikirdatt/development/project_euler/C#/bin/Debug/netcoreapp3.1/C#.deps.json
+/Users/jaikirdatt/development/project_euler/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.json
+/Users/jaikirdatt/development/project_euler/C#/bin/Debug/netcoreapp3.1/C#.runtimeconfig.dev.json
+/Users/jaikirdatt/development/project_euler/C#/bin/Debug/netcoreapp3.1/C#.dll
+/Users/jaikirdatt/development/project_euler/C#/bin/Debug/netcoreapp3.1/C#.pdb
+/Users/jaikirdatt/development/project_euler/C#/obj/Debug/netcoreapp3.1/C#.csprojAssemblyReference.cache
+/Users/jaikirdatt/development/project_euler/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfoInputs.cache
+/Users/jaikirdatt/development/project_euler/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+/Users/jaikirdatt/development/project_euler/C#/obj/Debug/netcoreapp3.1/C#.dll
+/Users/jaikirdatt/development/project_euler/C#/obj/Debug/netcoreapp3.1/C#.pdb
