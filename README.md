@@ -1,7 +1,7 @@
 # Solving Project Euler problems in C#
 
 ## dotnet requirements
-Project uses [dotnet core] (https://dotnet.microsoft.com/download/dotnet-core) built using v3.1.102
+Project uses [dotnet core](https://dotnet.microsoft.com/download/dotnet-core) built using v3.1.102
 
 ## To build the project
 
