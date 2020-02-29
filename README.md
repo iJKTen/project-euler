@@ -6,3 +6,5 @@
 dotnet build
 dotnet run
 ```
+
+Problems can be found at [Project Euler](https://projecteuler.net/archives)
