@@ -6,8 +6,8 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            int x = EX3.Run(600851475143);
-            Console.WriteLine($"Largest prime factor of 600851475143 is {x}");
+            int x = EX4.Run(999 * 999);
+            Console.WriteLine($"Largest palindrome made from the product of 3-digit numnbers is {x}");
         }
     }
 }
