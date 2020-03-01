@@ -6,8 +6,8 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            int x = EX7.Run(10001);
-            Console.WriteLine($"Prime number at position 10001 is {x}");
+            long x = EX8.Run();
+            Console.WriteLine($"Greatest product of adjacent 13 digit number in a 1000 string of numbers is {x}");
         }
     }
 }
